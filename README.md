@@ -77,10 +77,75 @@ chmod +x install.sh
 
 ## Keybinds
 
-| Bind          | Action           |
-|---------------|------------------|
-| Super + Space | App Launcher     |
-| Super + C     | Clipboard Viewer |
+### Window Management
+
+| Bind | Action |
+|------|--------|
+| Super + Q | Close window (or close QS panel) |
+| Super + Shift + F | Toggle floating |
+| Super + F | Fullscreen |
+| Super + Arrows | Move focus |
+| Super + Ctrl + Arrows | Move window |
+| Super + Shift + Arrows | Resize window |
+| Super + Mouse1 (drag) | Move window |
+| Super + Mouse2 (drag) | Resize window |
+
+### Apps
+
+| Bind | Action |
+|------|--------|
+| Super + T | Terminal |
+| Super + E | Browser (Zen / Chromium fallback) |
+| Super + N | Nautilus file manager |
+| Alt + Tab | Window switcher (Rofi) |
+
+### LoklercSpot Panels
+
+| Bind | Action |
+|------|--------|
+| Super + Space | App Launcher |
+| Super + C | Clipboard Viewer |
+| Super + M | Music popup |
+| Super + V | Volume popup |
+| Super + B | Battery popup |
+| Super + W | Wallpaper picker |
+| Super + S | Calendar |
+| Super + Shift + T | Focus time |
+| Super + H | Guide |
+| Super + A | Notification center |
+
+### Workspaces
+
+| Bind | Action |
+|------|--------|
+| Super + 1-9, 0 | Switch to workspace |
+| Super + Shift + 1-9, 0 | Move window to workspace |
+
+### Media
+
+| Bind | Action |
+|------|--------|
+| Super + P | Play / Pause |
+| Media Play/Pause key | Play / Pause |
+| Media Next key | Next track |
+| Media Prev key | Previous track |
+| Media Stop key | Stop |
+
+### System
+
+| Bind | Action |
+|------|--------|
+| Super + L | Lock screen |
+| Power button | Lock screen |
+| Print | Screenshot (region) |
+| Shift + Print | Screenshot + edit |
+| Super + Print | Full screenshot |
+| Super + Shift + Print | Full screenshot + edit |
+| Brightness Up/Down | Adjust brightness |
+| Volume Up/Down | Adjust volume |
+| Mute | Toggle mute |
+| Mic Mute | Toggle mic mute |
+| Caps Lock | Toggle caps lock |
 
 ---
 
